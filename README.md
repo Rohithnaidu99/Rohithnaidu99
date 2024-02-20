@@ -66,7 +66,7 @@
 - **Cloud Hosting**:
 
   ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)
-  ![FIREBASE](	https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+  ![Netlify](	)
 
 <br>
 
@@ -82,5 +82,5 @@
 
 
 <br>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nagacharankumarreddy&theme=vue">
-<img src="https://github-profile-trophy.vercel.app/?username=nagacharankumarreddy">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rohithnaidu99&theme=vue">
+<img src="https://github-profile-trophy.vercel.app/?username=rohithnaidu99">
