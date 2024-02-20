@@ -66,7 +66,7 @@
 - **Cloud Hosting**:
 
   ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)
-  ![Netlify](	)
+  
 
 <br>
 
